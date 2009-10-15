@@ -1,0 +1,32 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.55.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 0a2d45fa01b8022aa0c18cc994ef360570cc0926 Changes
+SHA1 b6e58f9bc32c217843e62b7e85f1a57d4b14cbcf MANIFEST
+SHA1 417354a28da0ca06ef13e91a2bdfb614e2b7b5cb MANIFEST.SKIP
+SHA1 629ef263e6cf3a7a43fd2cc14c659c7f38fd2852 META.yml
+SHA1 d8841b7511156b8fa3f79335805a5a54d6318641 Makefile.PL
+SHA1 7cd813650cdaf2d95821cb70a234f4eb45e67bd0 README
+SHA1 8ab8987128d4af3e7b25d8a7cefc31d938ba81aa lib/Template/Plugin/Filter/Minify/JavaScript/XS.pm
+SHA1 1e8d35211f31d9b7aff31229a20a27b7e1f304dd t/compile.t
+SHA1 7af390c499c7aff023d5cd753a159014194f8aba t/minify.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (GNU/Linux)
+
+iEYEARECAAYFAkrXezEACgkQ+CqvSzp9LOy/1QCfY/Q253ilFdwNRdjGOF3pBiAv
+gv4An11FcqY1luwtksqTbyP9cQ4t2Ix1
+=YtEZ
+-----END PGP SIGNATURE-----
