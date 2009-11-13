@@ -14,20 +14,20 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 54e879eee6026e9bc9319c8d963cacdd94b3ac13 Changes
+SHA1 dcb3b9b8326da773871d48bc400085c4d0c33fe1 Changes
 SHA1 db39f46d35c6bf21bff086c7403f63cc5e0a9b0d MANIFEST
 SHA1 417354a28da0ca06ef13e91a2bdfb614e2b7b5cb MANIFEST.SKIP
-SHA1 c3ec30625bb985e523c09c10149fb4399e571f20 META.yml
+SHA1 b6f00cbaa06658061f44378b9cde9d7eba8c152f META.yml
 SHA1 d8841b7511156b8fa3f79335805a5a54d6318641 Makefile.PL
 SHA1 7cd813650cdaf2d95821cb70a234f4eb45e67bd0 README
-SHA1 441e72b8757bac822caf859ef3d7655d6dbc75ff lib/Template/Plugin/Filter/Minify/JavaScript/XS.pm
+SHA1 791b3176ae1decc2f7e5f8aba59b937d4443b462 lib/Template/Plugin/Filter/Minify/JavaScript/XS.pm
 SHA1 1e8d35211f31d9b7aff31229a20a27b7e1f304dd t/compile.t
 SHA1 7af390c499c7aff023d5cd753a159014194f8aba t/minify.t
-SHA1 8db033d1411fc0b94c78c8a5c47620ab9ef0fcf8 t/signature.t
+SHA1 61cea839dd94aaaeb301ccac9b83cde4c5c91b42 t/signature.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG/MacGPG2 v2.0.12 (Darwin)
+Version: GnuPG v1.4.9 (GNU/Linux)
 
-iD8DBQFK5l92+CqvSzp9LOwRAp2yAKCs0TBf6h4x+OXEpjKRhqa1QRXvgQCgoGqN
-e6DGx/n85d8a/5M3NYLZdak=
-=G8Ov
+iEYEARECAAYFAkr9wjMACgkQ+CqvSzp9LOxaNACgt45//TMHjaYzlb6aGjcv+0XB
+2OoAn3W3n8u73ylo+R89uaRkqf4NaZt7
+=VIKL
 -----END PGP SIGNATURE-----
