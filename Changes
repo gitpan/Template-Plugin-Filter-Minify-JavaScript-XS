@@ -1,4 +1,8 @@
-Revision history for Perl extension Template::Plugin::Filter::Minify::JavaScript::XS.
+Revision history for Template::Plugin::Filter::Minify::JavaScript::XS
+
+0.93  2011-09-02
+    - use Dist::Zilla
+    - Fix POD typo
 
 0.92  Fri Nov 13 2009
     - disable signature test unless TEST_SIGNATURE is enabled, otherwise test
